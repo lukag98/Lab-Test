@@ -291,22 +291,7 @@ const Biohemija = () => {
           <VaccinesOutlinedIcon sx={{ color: "rgba(255, 46, 206)" }} />
         </Typography>
 
-        <Typography
-          variant="h6"
-          sx={{
-            marginBottom: "16px",
-            textAlign: "left",
-            display: "flex",
-            gap: "10px", // Razmak između ikone i teksta
-            padding: "16px", // Unutrašnji razmak
-            backgroundColor: "#f5f5f5", // Svetlosiva pozadina za bolji izgled
-            borderRadius: "8px", // Zaobljeni uglovi
-          }}
-        >
-          <InfoOutlinedIcon sx={{ color: "blue", fontSize: "30px" }} />
-          Registrujte se da bi ste mogli da sacuvate svoje laboratorijske
-          testove
-        </Typography>
+       
 
         <Typography
           variant="h6"

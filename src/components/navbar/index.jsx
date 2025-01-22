@@ -14,8 +14,8 @@ const pages = [
     name: "Interpretacija rezultata laboratorijskih testova",
     path: "/",
   },
-  { id: 2, name: "Opis rezultata laboratorijskih testova", path: "#" },
-  { id: 3, name: "Medicinski kalkulator", path: "#" },
+  { id: 2, name: "Opis rezultata laboratorijskih testova", path: "/opisi" },
+  { id: 3, name: "Medicinski kalkulator", path: "/medicinskidigitron" },
 ];
 
 function Navbar() {

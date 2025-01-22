@@ -325,7 +325,7 @@ const KompletnaKrvnaSlika = () => {
           Kompletna krvna slika
           <VaccinesOutlinedIcon sx={{ color: "rgba(255, 46, 206)" }} />
         </Typography>
-        <Typography
+        {/* <Typography
           variant="h6"
           sx={{
             marginBottom: "16px",
@@ -340,7 +340,7 @@ const KompletnaKrvnaSlika = () => {
           <InfoOutlinedIcon sx={{ color: "blue", fontSize: "30px" }} />
           Registrujte se da bi ste mogli da sacuvate svoje laboratorijske
           testove
-        </Typography>
+        </Typography> */}
 
         <Typography
           variant="h6"
