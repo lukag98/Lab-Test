@@ -9,7 +9,7 @@ import Digitron from "./components/Digitron";
 import Opis from "./components/Opis";
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Lab-Test">
       <div>
         <Navbar />
         <Routes>
